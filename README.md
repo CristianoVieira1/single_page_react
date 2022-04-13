@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/CristianoVieira1/single_page_react/blob/master/src/assets/images/screen.png" width="500"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/CristianoVieira1/single_page_react/blob/master/src/assets/images/screen.png" width="800"></a></p>
 
 # Getting Started with Create React App
 
